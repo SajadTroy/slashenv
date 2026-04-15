@@ -1,0 +1,38 @@
+{
+  "name": "slashenv",
+  "version": "1.0.0",
+  "description": "A zero-dependency, fail-fast environment enforcer. Validates active environment variables against a schema on boot.",
+  "keywords": [
+    "env",
+    "dotenv",
+    "environment",
+    "validation",
+    "schema",
+    "fail-fast",
+    "config",
+    "enforcer"
+  ],
+  "homepage": "https://github.com/SajadTroy/slashenv#readme",
+  "bugs": {
+    "url": "https://github.com/SajadTroy/slashenv/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajadTroy/slashenv.git"
+  },
+  "license": "MIT",
+  "author": "SajadTroy",
+  "funding": "https://github.com/sponsors/SajadTroy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
