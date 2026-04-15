@@ -14,3 +14,4 @@ coverage/
 *.swo   
 package-lock.json
 yarn.lock
+test.js
