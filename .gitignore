@@ -12,3 +12,5 @@ coverage/
 *.bak
 *.swp
 *.swo   
+package-lock.json
+yarn.lock
